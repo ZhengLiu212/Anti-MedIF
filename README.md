@@ -24,10 +24,13 @@ Table of Contents
 2. Guansong Pang, Chunhua Shen, Longbing Cao, Anton Van Den Hengel. [Deep Learning for Anomaly Detection: A Review](https://arxiv.org/pdf/2007.02500.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2007.02500.pdf)
 
 
-3. Guansong Pang, Chunhua Shen, Longbing Cao, Anton Van Den Hengel. [Abnormal group-based joint medical fraud detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135). IEEE Access 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135)
+3. Chenfei Sun, Zhongmin Yan, Qingzhong Li, Yongqing Zheng, Xudong Lu, and Lizhen Cui. [Abnormal group-based joint medical fraud detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135). IEEE Access 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135)
 
 
-3. Chenfei Sun, Zhongmin Yan et., al. [a hybrid approach for detecting fraudulent medical insurance claims](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135). IEEE Access 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135)
+4. Chenfei Sun, Qingzhong Li, Hui Li, Yuliang Shi, Shidong Zhang, and Wei Guo. [Patient Cluster Divergence Based Healthcare Insurance Fraudster Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8576507). IEEE Access 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8576507)
+
+
+5. Chenfei Sun,Yuliang Shi, Qingzhong Li, Lizhen Cui, Han Yu, Chunyan Miao. [a hybrid approach for detecting fraudulent medical insurance claims](http://www.ifaamas.org/Proceedings/aamas2016/pdfs/p1287.pdf). AAMAS 2016. [[Paper]](http://www.ifaamas.org/Proceedings/aamas2016/pdfs/p1287.pdf)
 
 
 4. H.Lookman Sithic and T.Balasubramanian. [Survey of Insurance Fraud Detection Using Data Mining Techniques](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf). IJITEE 2013. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf)
