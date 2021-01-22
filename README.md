@@ -9,10 +9,10 @@ Table of Contents
 =================
 
 <!--   * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph) -->
+  <!-- * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction) -->
   * [Survey](#Survey)
   * [Early Anomaly Detectionn](#Early_Anomaly_Detection)
   * [Fraud Detection in Healthcare](#Fraud_Detection_in_Healthcare)
-  <!-- * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction) -->
   * [Tools](#Tools)
 <!--   * [学术江湖](#学术江湖) -->
 
@@ -24,7 +24,13 @@ Table of Contents
 2. Guansong Pang, Chunhua Shen, Longbing Cao, Anton Van Den Hengel. [Deep Learning for Anomaly Detection: A Review](https://arxiv.org/pdf/2007.02500.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2007.02500.pdf)
 
 
-3. H.Lookman Sithic and T.Balasubramanian. [Survey of Insurance Fraud Detection Using Data Mining Techniques](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf). IJITEE 2013. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf)
+3. Guansong Pang, Chunhua Shen, Longbing Cao, Anton Van Den Hengel. [Abnormal group-based joint medical fraud detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135). IEEE Access 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135)
+
+
+3. Chenfei Sun, Zhongmin Yan et., al. [a hybrid approach for detecting fraudulent medical insurance claims](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135). IEEE Access 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579135)
+
+
+4. H.Lookman Sithic and T.Balasubramanian. [Survey of Insurance Fraud Detection Using Data Mining Techniques](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf). IJITEE 2013. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf)
 
 
 [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources?utm_source=wechat_session&utm_medium=social&utm_oi=833783073475796992)
