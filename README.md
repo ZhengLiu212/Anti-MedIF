@@ -36,6 +36,13 @@ Table of Contents
 1. Jibing Gong, Hekai Zhang, and Weixia Du. [Research on Integrated Learning Fraud Detection Method Based on Combination Classifier Fusion (THBagging): A Case Study on the Foundational Medical Insurance Dataset](https://www.mdpi.com/2079-9292/9/6/894/htm). electronics 2020. [[Paper]](https://www.mdpi.com/2079-9292/9/6/894/htm)
 
 
+2. Yun Lu and Zhenzi Xu. [Study on Basic Medical Insurance Fund Revenue and Expenditure Risk Early Warning System](https://link.springer.com/chapter/10.1007/978-1-4471-4802-9_101). Informatics and Management Science 2012. [[Paper]](https://link.springer.com/chapter/10.1007/978-1-4471-4802-9_101)
+
+
+3. Charles Francis, Noah Pepper, and Homer Strong. [Using support vector machines to detect medical fraud and abuse](https://ieeexplore.ieee.org/document/6092044). IEEE EMBS. [[Paper]](https://ieeexplore.ieee.org/document/6092044)
+
+
+
 
 
 
