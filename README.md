@@ -2,7 +2,7 @@
 
 
 
-Here, we are concentrate on collection of research papers associated with knowledge graph construction.   
+Here, we are concentrate on collection of research papers associated with fraud detection in healthcare field.   
 
 
 Table of Contents
@@ -12,7 +12,7 @@ Table of Contents
   * [Survey](#Survey)
   * [Early Anomaly Detectionn](#Early_Anomaly_Detection)
   * [Fraud Detection in Healthcare](#Fraud_Detection_in_Healthcare)
-  * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
+  <!-- * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction) -->
   * [Tools](#Tools)
 <!--   * [学术江湖](#学术江湖) -->
 
@@ -47,6 +47,8 @@ Table of Contents
 4. Fen-May Liou, Ying-Chan Tang, and Jean-Yi Chen. [Detecting hospital fraud and claim abuse through diabetic outpatient services](https://link.springer.com/article/10.1007/s10729-008-9054-y). Health Care Management Science 2008. [[Paper]](https://link.springer.com/article/10.1007/s10729-008-9054-y)
 
 
+
+## Tools
 
 
 
