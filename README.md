@@ -27,9 +27,7 @@ Table of Contents
 ## Early_Anomaly_Detection
 1. Tong Zhao, Bo Ni, Wenhao Yu, Meng Jiang. [Early Anomaly Detection by Learning and Forecasting Behavior](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2020. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
 
-
-
-4. 王军平, 张文生, 王勇飞, 孙正雅. [面向大数据领域的事理认知图谱构建与推断分析](http://scis.scichina.com/cn/2020/SSI-2019-0273.pdf). 中国科学：信息科学 2020. [[Paper]](http://scis.scichina.com/cn/2020/SSI-2019-0273.pdf)
+<!-- 4. 王军平, 张文生, 王勇飞, 孙正雅. [面向大数据领域的事理认知图谱构建与推断分析](http://scis.scichina.com/cn/2020/SSI-2019-0273.pdf). 中国科学：信息科学 2020. [[Paper]](http://scis.scichina.com/cn/2020/SSI-2019-0273.pdf) -->
 
 
 ## Fraud_Detection_in_Healthcare
@@ -40,6 +38,14 @@ Table of Contents
 
 
 3. Charles Francis, Noah Pepper, and Homer Strong. [Using support vector machines to detect medical fraud and abuse](https://ieeexplore.ieee.org/document/6092044). IEEE EMBS. [[Paper]](https://ieeexplore.ieee.org/document/6092044)
+
+
+4. Fen-May Liou, Ying-Chan Tang, and Jean-Yi Chen. [Detecting hospital fraud and claim abuse through diabetic outpatient services](https://link.springer.com/article/10.1007/s10729-008-9054-y). Health Care Management Science 2008. [[Paper]](https://link.springer.com/article/10.1007/s10729-008-9054-y)
+
+
+
+
+
 
 
 
