@@ -18,10 +18,14 @@ Table of Contents
 
 
 ## Survey
-1. Gerhard Weikum, Luna Dong, Simon Razniewski, and Fabian Suchanek. [Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases](https://arxiv.org/pdf/2009.11564.pdf). Arxiv 2020. [[Report]](https://mp.weixin.qq.com/s/hR_dIvSjOV19Q1LhfmUqNg)
+1. Saikiran Bulusu, Bhavya Kailkhura, Bo Li, Pramod K. Varshney, and Dawn Song. [Anomalous instance detection in deep learning: a survey](https://arxiv.org/pdf/2003.06979.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2003.06979.pdf)
 
 
-2. Tianxing Wu, Guilin Qi, Cheng Li, Meng Wang. [A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications](https://www.mdpi.com/2071-1050/10/9/3245/htm). sustainability 2018. [[Paper]](https://www.mdpi.com/2071-1050/10/9/3245/htm)
+2. Guansong Pang, Chunhua Shen, Longbing Cao, Anton Van Den Hengel. [Deep Learning for Anomaly Detection: A Review](https://arxiv.org/pdf/2007.02500.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2007.02500.pdf)
+
+
+3. H.Lookman Sithic and T.Balasubramanian. [Survey of Insurance Fraud Detection Using Data Mining Techniques](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf). IJITEE 2013. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf)
+
 
 
 ## Early_Anomaly_Detection
