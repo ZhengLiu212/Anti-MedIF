@@ -27,6 +27,8 @@ Table of Contents
 3. H.Lookman Sithic and T.Balasubramanian. [Survey of Insurance Fraud Detection Using Data Mining Techniques](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf). IJITEE 2013. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf)
 
 
+[Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources?utm_source=wechat_session&utm_medium=social&utm_oi=833783073475796992)
+
 
 ## Early_Anomaly_Detection
 1. Tong Zhao, Bo Ni, Wenhao Yu, Meng Jiang. [Early Anomaly Detection by Learning and Forecasting Behavior](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2020. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
