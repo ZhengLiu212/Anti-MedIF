@@ -49,6 +49,18 @@ Table of Contents
 4. Fen-May Liou, Ying-Chan Tang, and Jean-Yi Chen. [Detecting hospital fraud and claim abuse through diabetic outpatient services](https://link.springer.com/article/10.1007/s10729-008-9054-y). Health Care Management Science 2008. [[Paper]](https://link.springer.com/article/10.1007/s10729-008-9054-y)
 
 
+4. Fen-May Liou, Ying-Chan Tang, and Jean-Yi Chen. [Detecting hospital fraud and claim abuse through diabetic outpatient services](https://link.springer.com/article/10.1007/s10729-008-9054-y). Health Care Management Science 2008. [[Paper]](https://link.springer.com/article/10.1007/s10729-008-9054-y)
+
+
+5. 郭涛. [医疗保险欺诈检测的研究与应用](https://nxgp.cnki.net/kcms/detail?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkkyu7xrzFWukWIylgpWWcEmJ2rNVGp9SrTWILvn4CUBWdXgu9Lq1sXkOvrcZZ4slH&uniplatform=NZKPT). 电子科技大学硕士学位论文.
+
+
+6. 孙晨菲. [基于异构信息网络的医疗保险反欺诈关键问题研究](https://nxgp.cnki.net/kcms/detail?v=3uoqIhG8C447WN1SO36whFuPQ0yKi4pXSQlJ_W8wBD9JRPlAs_d8B-OfN_qKHUHQcNlrY-Lji5fiVDVzvL76OlM_cCt8NqsF&uniplatform=NZKPT). 山东大学博士学位论文.
+
+
+7. 高永昌. [医疗保险大数据中的欺诈检测关键问题研究](https://nxgp.cnki.net/kcms/detail?v=3uoqIhG8C447WN1SO36whLpCgh0R0Z-iDdIt-WSAdV5IJ_Uy2HKRAdrORiJbQWwqiXt_oXLjl5RvouHuriWfLYYcKTMxMCJ-&uniplatform=NZKPT). 山东大学硕士学位论文.
+
+
 
 ## Tools
 
