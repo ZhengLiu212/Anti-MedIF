@@ -1,6 +1,8 @@
 # Medical Fraud Detection 
 
-We curate a collection of research papers associated with fraud detection in healthcare field.   
+
+
+Here, we are concentrate on collection of research papers associated with fraud detection in healthcare field.   
 
 
 Table of Contents
@@ -11,6 +13,8 @@ Table of Contents
   * [Survey](#Survey)
   * [Early Anomaly Detectionn](#Early_Anomaly_Detection)
   * [Fraud Detection in Healthcare](#Fraud_Detection_in_Healthcare)
+  * [Temporal Causal Learning](#Temporal_Causal_Learning)
+  * [Health Risk Prediction](#Health_Risk_Prediction)
   * [Tools](#Tools)
 <!--   * [学术江湖](#学术江湖) -->
 
@@ -77,28 +81,28 @@ Table of Contents
 14. 高永昌. [医疗保险大数据中的欺诈检测关键问题研究](https://nxgp.cnki.net/kcms/detail?v=3uoqIhG8C447WN1SO36whLpCgh0R0Z-iDdIt-WSAdV5IJ_Uy2HKRAdrORiJbQWwqiXt_oXLjl5RvouHuriWfLYYcKTMxMCJ-&uniplatform=NZKPT). 山东大学硕士学位论文.
 
 
-
-## Tools and Resources
-
-### Tools
-1. [DGFraud: A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
-2. [UGFraud: An Unsupervised Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/UGFraud)
-3. [PyOD: A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)](https://github.com/yzhao062/pyod)
-4. [PyODD: An End-to-end Outlier Detection System](https://github.com/datamllab/pyodds)
-5. [TODS: Automated Time-series Outlier Detection System](https://github.com/datamllab/tods)
-
-### Paper lists
-1. [Graph-based Fraud Detection Paper List](https://github.com/safe-graph/graph-fraud-detection-papers) 
-2. [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-3. [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection)
+## Temporal_Causal_Learning
+1. Mehrdad Mansouri, Ali Arab, Zahra Zohrevand, and Martin Ester. [Heidegger: Interpretable Temporal Causal Discovery](https://dl.acm.org/doi/abs/10.1145/3394486.3403220). KDD 2020. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403220)
 
 
-### Resources
-1. [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
-2. [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/)
-3. [Graph Fraud Datasets from Prof. Srijan Kumar](https://cs.stanford.edu/~srijan/)
-4. [Bitcoin Fraudulent Transaction Dataset](https://www.kaggle.com/ellipticco/elliptic-data-set)
-5. [Mobile App Install Fraud Dataset](https://github.com/mobvistaresearch/CIKM2020-BotSpot)
+## Health_Risk_Prediction
+1. Junyi Gao, Cao Xiao, Yasha Wang, Wen Tang, Lucas M. Glass, and Jimeng Sun. [StageNet: Stage-Aware Neural Networks for Health Risk Prediction](https://arxiv.org/pdf/2001.10054v1.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2001.10054v1.pdf)
+
+
+## Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
