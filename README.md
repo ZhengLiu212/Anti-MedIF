@@ -1,8 +1,6 @@
 # Medical Fraud Detection 
 
-
-
-Here, we are concentrate on collection of research papers associated with fraud detection in healthcare field.   
+We curate a collection of research papers and resources related to fraud detection in healthcare field.   
 
 
 Table of Contents
@@ -27,9 +25,6 @@ Table of Contents
 
 
 3. H.Lookman Sithic and T.Balasubramanian. [Survey of Insurance Fraud Detection Using Data Mining Techniques](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf). IJITEE 2013. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1309/1309.0806.pdf)
-
-
-[Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources?utm_source=wechat_session&utm_medium=social&utm_oi=833783073475796992)
 
 
 ## Early_Anomaly_Detection
@@ -89,21 +84,27 @@ Table of Contents
 1. Junyi Gao, Cao Xiao, Yasha Wang, Wen Tang, Lucas M. Glass, and Jimeng Sun. [StageNet: Stage-Aware Neural Networks for Health Risk Prediction](https://arxiv.org/pdf/2001.10054v1.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2001.10054v1.pdf)
 
 
-## Tools
+## Tools and Resources
+
+### Tools
+1. [DGFraud: A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
+2. [UGFraud: An Unsupervised Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/UGFraud)
+3. [PyOD: A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)](https://github.com/yzhao062/pyod)
+4. [PyODD: An End-to-end Outlier Detection System](https://github.com/datamllab/pyodds)
+5. [TODS: Automated Time-series Outlier Detection System](https://github.com/datamllab/tods)
+
+### Paper lists
+1. [Graph-based Fraud Detection Paper List](https://github.com/safe-graph/graph-fraud-detection-papers) 
+2. [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+3. [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+### Resources
+1. [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
+2. [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/)
+3. [Graph Fraud Datasets from Prof. Srijan Kumar](https://cs.stanford.edu/~srijan/)
+4. [Bitcoin Fraudulent Transaction Dataset](https://www.kaggle.com/ellipticco/elliptic-data-set)
+5. [Mobile App Install Fraud Dataset](https://github.com/mobvistaresearch/CIKM2020-BotSpot)
 
 
 <!-- ## 学术江湖 -->
